@@ -3400,6 +3400,7 @@ namespace MaterialDesignThemes.Wpf
         DomeLight,
         DominoMask,
         RobberMask=DominoMask,
+        ZorroMask=DominoMask,
         Donkey,
         DoNotDisturb,
         NoEntry=DoNotDisturb,
